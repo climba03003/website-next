@@ -1,40 +1,40 @@
 {
-  "reference": 24848,
+  "reference": 57440,
   "frameworks": [
     {
       "name": "Fastify",
       "tag": "fastify",
       "test": "https://github.com/fastify/benchmarks/blob/master/benchmarks/fastify.cjs",
       "repository": "https://github.com/fastify/fastify",
-      "requests": "22532.0"
+      "requests": "51988.0"
     },
     {
       "name": "Koa",
       "tag": "koa",
       "test": "https://github.com/fastify/benchmarks/blob/master/benchmarks/koa.cjs",
       "repository": "https://github.com/koajs/koa",
-      "requests": "18435.5"
+      "requests": "39891.0"
     },
     {
       "name": "Express",
       "tag": "express",
       "test": "https://github.com/fastify/benchmarks/blob/master/benchmarks/express.cjs",
       "repository": "https://github.com/expressjs/express",
-      "requests": "5642.8"
+      "requests": "11900.6"
     },
     {
       "name": "Restify",
       "tag": "restify",
       "test": "https://github.com/fastify/benchmarks/blob/master/benchmarks/restify.cjs",
       "repository": "https://github.com/restify/node-restify",
-      "requests": "18326.7"
+      "requests": "36983.0"
     },
     {
       "name": "Hapi",
       "tag": "hapi",
       "test": "https://github.com/fastify/benchmarks/blob/master/benchmarks/hapi.cjs",
       "repository": "https://github.com/hapijs/hapi",
-      "requests": "15842.9"
+      "requests": "33829.6"
     }
   ]
 }
